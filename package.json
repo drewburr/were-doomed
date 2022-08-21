@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/drewburr/were-doomed/issues"
   },
-  "homepage": "https://github.com/drewburr/were-doomed#readme"
+  "homepage": "https://github.com/drewburr/were-doomed#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "winston": "^3.8.1"
+  }
 }
